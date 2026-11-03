@@ -1,29 +1,11 @@
-#hackerrank-solutions
-#include <stdio.h>
-#include <string.h>
-#include <math.h>
-#include <stdlib.h>
+ 
+Hey, I'm Hemavarshini K! 🎓💻
 
+Welcome to my code space! I am a student pursuing my BE in Computer Science and Engineering at St. Joseph's College of Engineering. I use GitHub to track my learning journey, host academic projects, and store my practice scripts.
 
+🌟 About Me:
 
-int main() 
-{
-    int a, b;
-   const char *c[]={"one","two","three","four","five","six","seven","eight","nine"};
-    scanf("%d\n%d", &a, &b);
-  	// Complete the code.
-     for(int i=a;i<=b;i++){
-        if(i>=1 && i<=9){
-            printf("%s\n",c[i-1]);
-        }
-           else if(i%2==0){
-                printf("even\n");
-            }
-            else{
-                printf("odd\n");
-            }
-        
-     }
-    return 0;
-}
+• 🔭 Currently a student diving deep into Computer Science/Web Dev/Data Science
+• 🧠 Stacking up skills in Data Structures, Algorithms, and Software Engineering
+• 🚀 Looking for internships and entry-level opportunities!
 
